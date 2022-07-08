@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mariam and I am a recent grad from Canada. This is my info!
+My name is Mariam and I'm a recent grad from Canada. This is my info!
 
  🔭 I’m currently working on ...
  
