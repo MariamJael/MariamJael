@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mariam and I'm a recent grad from Canada. This is my info!
+My name is Mariam and I'm a full-stack developer from Canada. This is my info!
 
  🔭 I’m currently working on ...
  
@@ -25,6 +25,7 @@ My name is Mariam and I'm a recent grad from Canada. This is my info!
  
  * Software Development
  * Web Development
+ * Cloud Computing
  * Meeting new people and collaborating!
  
  💬 You can reach me on LinkedIn! https://www.linkedin.com/in/mariam-lopez-aa8223121/
