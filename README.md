@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-My name is Mariam, and I’m a full-stack developer based in Canada with a strong interest in Quality Assurance and game testing.
+My name is Mariam and I’m a full-stack developer based in Canada with a strong interest in Quality Assurance and game testing.
 
 ---
 
@@ -49,7 +49,7 @@ I have worked in environments where clear communication between QA and developer
 
 🎮 QA Mindset  
 
-As a developer, I naturally think about edge cases, system behavior, and failure points. I bring a developer’s perspective into QA, which helps me:
+As a developer, I naturally think about edge cases, system behavior and failure points. I bring a developer’s perspective into QA, which helps me:
 
 - Identify issues more effectively  
 - Understand root causes faster  
@@ -69,6 +69,7 @@ As a developer, I naturally think about edge cases, system behavior, and failure
 ---
 
 📌 Goal  
+
 I am currently looking to grow further in Quality Assurance, particularly in game testing environments where attention to detail and player experience are critical.
  
  💬 You can reach me on LinkedIn! https://www.linkedin.com/in/mariam-lopez-aa8223121/
