@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-Hi there 👋  
+--> 
 
 My name is Mariam, and I’m a full-stack developer based in Canada with a strong interest in Quality Assurance and game testing.
 
