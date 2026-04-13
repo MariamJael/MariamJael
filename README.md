@@ -32,6 +32,4 @@ As a developer, I naturally think in terms of edge cases, system behavior and us
 - Game Testing
 - Web Development
 
-📌 QA Portfolio: https://github.com/MariamJael/qa-portfolio
- 
  💬 You can reach me on LinkedIn! https://www.linkedin.com/in/mariam-lopez-aa8223121/
