@@ -15,21 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-My name is Mariam and I’m a full-stack developer based in Canada with a strong interest in Quality Assurance and game testing.
-
-🧪 QA Experience
-
-I have worked closely with QA teams on multiple projects, gaining hands-on experience in manual testing, Playwright automation, test case creation, and structured bug reporting within real development workflows.
-
-🎮 QA Mindset 
-
-As a developer, I naturally think in terms of edge cases, system behavior and user experience. This helps me identify issues efficiently and communicate clearly with development teams.
+My name is Mariam and I’m a full-stack developer based in Canada.
 
 🌱 Interests 
 
 - Software Development
-- Quality Assurance
-- Game Testing
 - Web Development
+- Graphic / Web Design
 
  💬 You can reach me on LinkedIn! https://www.linkedin.com/in/mariam-lopez-aa8223121/
